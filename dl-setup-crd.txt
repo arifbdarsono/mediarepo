@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/arifbdarsono/mediarepo/main/setup-crd.sh
